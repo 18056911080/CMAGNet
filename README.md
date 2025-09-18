@@ -1,2 +1,2 @@
 # CMAGNet
-sign language model
+The code is coming soon.
