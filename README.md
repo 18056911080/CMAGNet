@@ -1,0 +1,2 @@
+# CMAGNet
+sign language model
